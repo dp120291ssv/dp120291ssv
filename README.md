@@ -7,4 +7,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv)](https://github.com/dp120291ssv/ReactJS_World_SPA_project)
+
+
 
