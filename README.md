@@ -1,4 +1,4 @@
-### Hi there 👋 i'm a Fron-end ReactJS developer 😊
+### Hi there 👋 i'm a Front-end ReactJS developer 😊
 
 
 - 🔭 I’m currently working on PrivateBank on next.privat24.ua project
