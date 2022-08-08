@@ -7,7 +7,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv)]
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"" /> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> |
 
 
 
