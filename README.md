@@ -2,9 +2,9 @@
 
 
 - 🚀 I’m currently working on PrivateBank on <a href="https://next.privat24.ua">next.privat24.ua</a> project
-- 🔭 I’m currently learning ReactJS with TypeScript and JavaScript
+- 🔭 I’m using <b>ReactJS</b> with <b>TypeScript</b> and <b>JavaScript</b> 
 - 🏄🏻‍♂️ I like to study new technologies and try to apply them in practice
-- 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg/
+- 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=dracula)
 
