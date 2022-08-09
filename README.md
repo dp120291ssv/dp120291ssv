@@ -1,4 +1,4 @@
-<h3 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 i'm a Front-end ReactJS developer 😊</h3>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 i'm a Front-end ReactJS developer 😊</h3>
 
 **About me**
 
@@ -22,7 +22,7 @@
 
 
 
-<h3 align="center">👨🏻‍💻📊 I spent my time for: </h3>
+<h2 align="center">👨🏻‍💻📊 I spent my time for: </h3>
 
 [![wakatime](https://wakatime.com/badge/user/ba7f3122-44c3-4e24-8fad-dde811d58c9f.svg)](https://wakatime.com/@ba7f3122-44c3-4e24-8fad-dde811d58c9f)
 
@@ -33,7 +33,7 @@
 | ------------- | ------------- |
 
 
-<h3 align="center"> 👨🏻‍💻 My Pet projects: </h3>
+<h2 align="center"> 👨🏻‍💻🐶 My Pet projects: </h3>
 
-#React #React Router #styled-components #i18l #dark mode
-🐶 https://worldcountries-be75a.web.app
+
+<h3> https://worldcountries-be75a.web.app | #React #React Router #styled-components #i18l #dark mode </h3>
