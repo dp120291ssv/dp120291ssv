@@ -1,4 +1,4 @@
-<p align="center"><h1>Hi there 👋 i'm a Front-end ReactJS developer 😊</h1></p>
+<h3 align="center">Hi there 👋 i'm a Front-end ReactJS developer 😊</h3>
 
 **About me**
 
