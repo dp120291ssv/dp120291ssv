@@ -7,10 +7,6 @@
 - 🏄🏻‍♂️ I like to study new technologies and try to apply them in practice
 - 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=dracula)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&text_color=f7f7f1&bg_color=282a36)](https://github.com/dp120291ssv/dp120291ssv)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
