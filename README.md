@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💻 I’m currently working on PrivateBank on [next.privat24.ua](https://next.privat24.ua) project
+- 💻 I’m currently working on PrivatBank on [next.privat24.ua](https://next.privat24.ua) project
 - 🚀 I’m using <b>ReactJS</b> with <b>TypeScript</b> and <b>JavaScript</b> 
 - 🏄🏻‍♂️ I like to study new technologies and try to apply them in practice
 - 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg
