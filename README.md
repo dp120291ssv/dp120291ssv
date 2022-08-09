@@ -2,7 +2,7 @@
 
 **About me**
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on PrivatBank on [next.privat24.ua](https://next.privat24.ua) project
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working at PrivatBank on [next.privat24.ua](https://next.privat24.ua) project
 - 🚀 I’m using 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
