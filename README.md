@@ -24,6 +24,8 @@
 
 <h3 align="center">👨🏻‍💻📊 This week I spent my time on: </h3>
 
+[![wakatime](https://wakatime.com/badge/user/ba7f3122-44c3-4e24-8fad-dde811d58c9f.svg)](https://wakatime.com/@ba7f3122-44c3-4e24-8fad-dde811d58c9f)
+
 ![My stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dp120291ssv&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
