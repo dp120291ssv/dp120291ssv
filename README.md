@@ -8,6 +8,6 @@
 - 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
