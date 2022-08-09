@@ -12,6 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&text_color=f7f7f1&bg_color=282a36)](https://github.com/dp120291ssv/dp120291ssv)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
