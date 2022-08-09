@@ -9,5 +9,5 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&text_color=dd6387&bg_color=282a36)](https://github.com/dp120291ssv/dp120291ssv)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&text_color=f7f7f1&bg_color=282a36)](https://github.com/dp120291ssv/dp120291ssv)
 
