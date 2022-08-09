@@ -22,7 +22,7 @@
 
 
 
-<h3 align="center">👨🏻‍💻📊 I spent time for: </h3>
+<h3 align="center">👨🏻‍💻📊 I spent my time for: </h3>
 
 [![wakatime](https://wakatime.com/badge/user/ba7f3122-44c3-4e24-8fad-dde811d58c9f.svg)](https://wakatime.com/@ba7f3122-44c3-4e24-8fad-dde811d58c9f)
 
