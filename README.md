@@ -20,6 +20,10 @@
 - 🏄🏻‍♂️ I like to study new technologies and try to apply them in practice
 - 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg
 
+👨🏻‍💻📊 &nbsp;**This week I spent my time on:**
+
+![My stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dp120291ssv&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
