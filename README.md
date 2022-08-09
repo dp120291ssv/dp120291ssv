@@ -26,8 +26,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/ba7f3122-44c3-4e24-8fad-dde811d58c9f.svg)](https://wakatime.com/@ba7f3122-44c3-4e24-8fad-dde811d58c9f)
 
-<figure><embed src="https://wakatime.com/share/@dp120291ssv/8cdeed39-95dc-4190-ad97-f12e7c7948ab.svg"></embed></figure>
-
+<figure><embed src="https://wakatime.com/share/@dp120291ssv/f34d0f85-ca05-4e22-a2b3-6a460a0943b7.svg"></embed></figure>
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> |
