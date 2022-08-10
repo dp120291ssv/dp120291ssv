@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 i'm a Front-end ReactJS developer 😊</h3>
 
-**About me**
+<h3> About me </h3>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working at PrivatBank on [next.privat24.ua](https://next.privat24.ua) project
 - 🚀 I’m using 
@@ -19,8 +19,8 @@
 </p>
 
 
-<h4> - 🏄🏻‍♂️ I like to study new technologies and try to apply them in practice </h4>
-<h4> - 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg </h4>
+ - 🏄🏻‍♂️ I like to study new technologies and try to apply them in practice
+ - 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg
 
 
 
