@@ -17,8 +17,10 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
-- 🏄🏻‍♂️ I like to study new technologies and try to apply them in practice
-- 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg
+
+
+<h4> - 🏄🏻‍♂️ I like to study new technologies and try to apply them in practice </h4>
+<h4> - 💬 Ask me about anything at linkedin: https://www.linkedin.com/in/smnvsrg </h4>
 
 
 
