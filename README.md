@@ -26,8 +26,6 @@
 
 <h2 align="center">👨🏻‍💻📊 I spent my time for: </h3>
 
-[![wakatime](https://wakatime.com/badge/user/ba7f3122-44c3-4e24-8fad-dde811d58c9f.svg)](https://wakatime.com/@ba7f3122-44c3-4e24-8fad-dde811d58c9f)
-
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
