@@ -36,3 +36,6 @@
 
 <h3> https://worldcountries-be75a.web.app | &middot;React &middot;React-router &middot;styled-components &middot;i18l &middot;dark mode </h3>
 <h3> https://shoppingcart-9350e.web.app | &middot;React &middot;React-router &middot;React-Context &middot;Bootstrap </h3>
+<h3> https://shortly-1.web.app | &middot;React &middot;Redux </h3> &middot;SCSS </h3>
+
+
