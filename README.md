@@ -36,6 +36,6 @@
 
 <h3> https://worldcountries-1.web.app | &middot;React &middot;React-router &middot;styled-components &middot;i18l &middot;dark mode </h3>
 <h3> https://shoppingcart-0.web.app | &middot;React &middot;React-router &middot;React-Context &middot;Bootstrap </h3>
-<h3> https://shortly-1.web.app | &middot;React &middot;React &middot;React Hook Form &middot;Redux &middot;SCSS &middot;Framer Motion </h3>
+<h3> https://shortly-1.web.app | &middot;React &middot;React Hook Form &middot;Redux &middot;SCSS &middot;Framer Motion </h3>
 
 
