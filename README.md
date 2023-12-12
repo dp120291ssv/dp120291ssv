@@ -29,7 +29,8 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> | 
 | ------------- | ------------- |
-
+![LeetCode Stats](https://leetcode.card.workers.dev/dp120291ssv?theme=dark&font=baloo&extension=null)
+| ------------- | ------------- |
 
 <h2 align="center"> 👨🏻‍💻🐶 My Pet projects: </h3>
 
@@ -39,6 +40,5 @@
 <h3> https://shortly-1.web.app | &middot;React &middot;React Hook Form &middot;Redux &middot;SCSS &middot;Framer Motion </h3>
 <h3> https://simple-demo-nextjs-ts.vercel.app | &middot;NextJS &middot;React &middot;SCSS </h3>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/dp120291ssv?theme=dark&font=baloo&extension=null)
 
 
