@@ -26,12 +26,13 @@
 
 <h2 align="center">👨🏻‍💻📊 I spent my time for: </h3>
 
+<div align="center">
+  
+![LeetCode Stats](https://leetcode.card.workers.dev/dp120291ssv?theme=dark&font=baloo&extension=null) </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" />
+<p align="center" width="100%"><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /></p> 
 
-<div align="center" width="100%"> ![LeetCode Stats](https://leetcode.card.workers.dev/dp120291ssv?theme=dark&font=baloo&extension=null) </div>
-
-<h2 align="center"> 👨🏻‍💻🐶 My Pet projects: </h3>
+<h2 align="center"> 👨🏻‍💻🐶 My Pet projects: </h2>
 
 
 <h3> https://worldcountries-1.web.app | &middot;React &middot;React-router &middot;styled-components &middot;i18l &middot;dark mode </h3>
