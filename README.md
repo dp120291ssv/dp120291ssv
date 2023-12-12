@@ -29,7 +29,8 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /> | 
 
-![LeetCode Stats](https://leetcode.card.workers.dev/dp120291ssv?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/dp120291ssv?theme=dark&font=baloo&extension=null) |
+
 | ------------- | ------------- |
 
 <h2 align="center"> 👨🏻‍💻🐶 My Pet projects: </h3>
