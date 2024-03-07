@@ -32,7 +32,7 @@
   
 ![LeetCode Stats](https://leetcode.card.workers.dev/dp120291ssv?theme=dark&font=baloo&extension=null) </div>
 
-<div align="center"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=dp120291ssv" alt="LeetCode Badges"/>  </div>
+<div align="center"> ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username="dp120291ssv") </div>
 
 
 <p align="center" width="100%"><img align="center" width="39.5%" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /></p> 
