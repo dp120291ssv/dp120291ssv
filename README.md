@@ -29,8 +29,8 @@
 <h2 align="center">👨🏻‍💻📊 I spent my time for: </h3>
 
 <div align="center">
-  
-![LeetCode Stats](https://leetcode.card.workers.dev/dp120291ssv?theme=dark&font=baloo&extension=null) </div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dp120291ssv?theme=dark&font=Balsamiq%20Sans) </div>
 
 
 <p align="center" width="100%"><img align="center" width="39.5%" src="https://github-readme-stats.vercel.app/api?username=dp120291ssv&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp120291ssv&layout=compact&theme=buefy&hide_border=true" /></p> 
